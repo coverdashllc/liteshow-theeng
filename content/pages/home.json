@@ -1,0 +1,30 @@
+{
+  "page": {
+    "id": "f69aa2cd-f259-4a84-8e09-14d4e0997137",
+    "slug": "home",
+    "title": "home",
+    "description": null,
+    "status": "saved",
+    "metaTitle": null,
+    "metaDescription": null,
+    "ogImage": null,
+    "createdAt": "2026-01-02T00:41:33.000Z",
+    "updatedAt": "2026-01-02T00:41:42.000Z"
+  },
+  "blocks": [
+    {
+      "id": "1c4b7633-aa82-4413-b159-2357354eefa7",
+      "type": "hero",
+      "order": 0,
+      "content": {
+        "headline": "eeerer",
+        "subheadline": "rtyyt",
+        "ctaText": "terer",
+        "ctaUrl": "",
+        "backgroundImage": ""
+      },
+      "createdAt": "2026-01-02T00:41:41.000Z",
+      "updatedAt": "2026-01-02T00:41:41.000Z"
+    }
+  ]
+}
